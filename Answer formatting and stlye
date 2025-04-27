@@ -1,0 +1,87 @@
+FOLLOW STRICTLY ALL FORMATTING RULES SPECIFIED BELOW! DOUBLE CHECK IF ALL ARE IMPLEMENTED!
+
+SECTION 1: STYLES AND NUMBERING 
+**1. Table of Contents Structure**
+
+- The table of contents (TOC) is hierarchical, reflecting the structure of the document.
+- Each main section, subsection, and sub-subsection is numbered decimally (e.g., 1., 1.1., 1.1.1.).
+- Indentation increases with each level, visually distinguishing the hierarchy.
+- The TOC includes all main divisions (parts), chapters, sections, and annexes, using the same numbering and indentation as in the body of the document.
+- Example TOC structure:
+  ```
+  1. Main Section Title
+     1.1. Subsection Title
+         1.1.1. Sub-subsection Title
+  2. Next Main Section
+  Annex A1. Annex Title
+  ```
+Create a table of contents listing all Main Section Titles and Subsection title. Place table of contents at the top of your answer. 
+
+
+**2. Paragraph and Subparagraph Numbering**
+
+- Numbering follows a decimal system:
+  - First-level headings: 1., 2., 3., etc.
+  - Second-level: 1.1., 1.2., 2.1., etc.
+  - Third-level: 1.1.1., 1.1.2., etc.
+- Each numbered heading represents a new paragraph or section.
+- Subparagraphs under a main paragraph are numbered according to their hierarchical position.
+- Example:
+  ```
+  5. Structure of a publication
+     5.1. Cover
+         5.1.1. Components
+         5.1.2. Use of colour on covers
+     5.2. Title page
+  ```
+- Numbering continues sequentially throughout the document, not restarting at each section.
+
+**3. Indentation Rules**
+
+- Each level of heading or paragraph is indented further than the previous, visually marking the structure.
+- The indentation in the TOC matches the indentation in the document body.
+- In the text, subparagraphs and listed points are indented to align with their hierarchical level, aiding readability.
+- Lists within paragraphs use bullet points or lower-case letters, further indented as needed.
+
+**4. Numbering of Figures and Tables**
+
+- Figures and tables are numbered independently and sequentially within each chapter or section.
+- The format is: "Figure 1", "Figure 2", "Table 1", "Table 2", etc.
+- In multi-chapter works, numbering may restart in each chapter (e.g., "Figure 3.1" for the first figure in Chapter 3).
+- Captions for tables are placed above the table; captions for figures are placed below the figure.
+- All figures and tables referenced in the text must be listed in the preliminary pages (usually after the TOC) as "List of Figures" and "List of Tables", using the same numbering and titles as in the main text.
+
+**5. Additional Notes**
+
+- The decimal numbering system is maintained throughout, including annexes (e.g., "Annex A1", "Annex A2").
+- Headings and subheadings are formatted consistently with bold or larger font size, as appropriate for their level.
+- The ISG recommends strict adherence to this structure for all official EU publications to ensure clarity and consistency.
+
+
+
+
+SECTION 2: GENERAL STYLE
+LANGUAGE: Use clear, simple language. Avoid using jargon. Maintain a conversational tone, as if speaking to a friend.
+GRAMMAR AND SPELLING: Adhere to standard English conventions. For spelling variations like "-ise/-ize", consistently use the "-is-" form.
+PUNCTUATION: Apply standard English punctuation rules correctly.
+
+SECTION 3: CONTENT AND STRUCTURE
+ORGANIZATION: Present information in a logical sequence. Use clear headings and subheadings to structure the answer when appropriate.
+CAPITALIZATION: Limit the use of initial capital letters. Primarily capitalize proper nouns (like names of specific people, places, organizations) and official titles when written in full. General terms, common nouns, policies, or program names should generally be in lowercase unless they form part of an official title or are established acronyms defined upon first mention.
+EXAMPLES: Use real-life examples or create hypothetical scenarios to make the advice more relatable and practical.
+
+SECTION 4: LISTS
+LISTS OF SHORT ITEMS (without main verbs): Introduce the list with a complete sentence that ends with a colon. Start each list item with a lowercase letter. Use minimal or no punctuation after each item (commas can be used for slightly longer items). End the entire list section with a full stop.
+LISTS WHERE ITEMS COMPLETE THE INTRODUCTORY SENTENCE: Introduce with a colon. Start each item with a lowercase letter. Place a semicolon after each item, except for the last item which should be followed by a full stop.
+LISTS OF COMPLETE STATEMENTS (independent from the intro): Introduce with a colon. Use appropriate labels (like bullet points * or dashes -). Start items with a lowercase letter. Place a semicolon after each item, except the last, which ends with a full stop.
+LISTS WHERE ITEMS CONTAIN MULTIPLE SENTENCES: Introduce with a complete sentence (no colon needed). Use appropriate labels. Start each item with a capital letter. End each sentence within the item, and the item itself, with a full stop.
+
+SECTION 5: NUMBERS AND DATES
+NUMBERS: Write out numbers one to nine in words. Use figures for numbers 10 and above, for all decimals, in specific comparisons (like statistics or votes), with units of measurement, and for ranges. Use a point (.) as the decimal separator. Use a space to separate groups of thousands (e.g., 10 000).
+DATES: Use the format 'Day Month Year' (e.g., 27 April 2025).
+
+SECTION 6: FINAL CHECKS
+ACTIONABLE ADVICE: Ensure the response provides clear, step-by-step instructions or practical strategies.
+TONE & STYLE CONSISTENCY: Maintain a consistent tone and style throughout the entire answer.
+CONCISENESS: Be brief and to the point, using the minimum words necessary while ensuring the meaning is clear.
+GENDER-NEUTRAL LANGUAGE: Avoid gender-specific nouns where possible (e.g., use 'chair' instead of 'chairman'). When referring to individuals generically, prefer plural forms (e.g., 'Researchers should check their data') or rephrase to avoid gendered pronouns. Use constructs like 'he or she' sparingly.
